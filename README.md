@@ -1,4 +1,4 @@
 myscala
 =======
 
-Playing with scala, CI
+A crack at playing with Scala, SBT, Scalatest and CI.
