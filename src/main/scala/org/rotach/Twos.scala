@@ -1,5 +1,10 @@
 package org.rotach
 
+
+/******************************************
+ * Class to deal with "twos"
+ ******************************************/
+
 class Twos {
   def twos(nums: Array[Int]): Int = {
     if (nums.size == 1) {
