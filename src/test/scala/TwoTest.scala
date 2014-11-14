@@ -25,6 +25,6 @@ class TwoTest extends FlatSpec with Matchers {
 
   "nottwos" should "return 1 if there are no twos in a 1 element array" in {
     val t = new Twos()
-    t.nottwos(Array(4)) should be (1)
+    t.nottwos(Array(2)) should be (1)
   }
 }
